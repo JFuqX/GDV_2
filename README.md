@@ -4,6 +4,8 @@
 Für das Modul <b>GDV2</b> wurde die Mandelbrotfunktion / Mandelbrotfraktalfunktion programmiert.<br>
 Eine Implementierung der Julia Fraktalfunktion ist Teilweise im Code vorhanden.
 
+![alt text](https://i.ibb.co/2vfnVQj/Bildschirmfoto-2022-08-31-um-17-01-12.png)
+
 ## Need to know!!!
 
 
