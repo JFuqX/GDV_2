@@ -21,8 +21,7 @@ Eine Implementierung der Julia Fraktalfunktion ist Teilweise im Code vorhanden.
 <br>
 
 * repo clonen([https://git.ai.fh-erfurt.de/di1846ho/GDV2-Mandelbrot-Variation](https://git.ai.fh-erfurt.de/di1846ho/GDV2-Mandelbrot-Variation))
-*  In Visual Studio 2019 öffnen
-* Im Ordner /project befindet sich die .sln
+* /project um die .sln zu öffnen
 * /project/example für die mandelbrot_julia.cpp datei
 * /data/shader/ für die mandelbrot_julia.fx bzw. shader datei
 </details>
